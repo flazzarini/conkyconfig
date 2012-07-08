@@ -48,7 +48,6 @@ class Nowplaying():
 	def getYear(self):
 		return self.year
 
-
 	def getTrack(self):
 		return self.track
 
