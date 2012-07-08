@@ -58,6 +58,7 @@ class Nowplaying():
 		return self.sample
 
 	def getCover(self, destination):
+		''' Copy amaroks cache cover art to a static location so it can be used in conky'''
 		if self.cover != "" :
 			try :
 				shutil.copyfile(self.cover.replace('file://', ''), destination)
