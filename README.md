@@ -7,4 +7,4 @@ track in amarok (my favourite Music Player).
 
     - anowplaying.py (fetch currently playing track in amarok via dbus)
 
-![Screenshot](https://github.com/flazzarini/conkyconfig/blob/master/screenshot.png)
+![Screenshot](https://raw.github.com/flazzarini/conkyconfig/master/screenshot.png)
